@@ -69,6 +69,7 @@ namespace server
                     // Sending confirmation
                     TrackerPkg response = new TrackerPkg(1, 0, package.device.ToString(), "");
                     byte[] resBytes = response.GetBytes();
+                    remoteIp.Port = 9999;
                     client.Send(resBytes,resBytes.Length, remoteIp);
                 }
             }
