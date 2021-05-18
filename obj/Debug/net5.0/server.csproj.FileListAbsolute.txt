@@ -1,0 +1,15 @@
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/bin/Debug/net5.0/server.deps.json
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/bin/Debug/net5.0/server.runtimeconfig.json
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/bin/Debug/net5.0/server.runtimeconfig.dev.json
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/bin/Debug/net5.0/server.dll
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/bin/Debug/net5.0/ref/server.dll
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/bin/Debug/net5.0/server.pdb
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.csprojAssemblyReference.cache
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.AssemblyInfoInputs.cache
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.AssemblyInfo.cs
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.csproj.CoreCompileInputs.cache
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.dll
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/ref/server.dll
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.pdb
+/Users/marce/Proyectos/Distribuidos/T3-GPS_Tracker/server/obj/Debug/net5.0/server.genruntimeconfig.cache
